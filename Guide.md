@@ -28,6 +28,12 @@
 
 ### Prisma setup
 
+- Open terminal and write:
+  - `npm install -D prisma`
+  - `npx prisma init`
+- In file `.env` change path to database: `mongodb://127.0.0.1:27017/toilet_messenger_dev`
+- Build models (Collection) then run: `npx prisma db push`
+
 ### NextAuth setup
 
 # Register Functionality
