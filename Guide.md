@@ -36,6 +36,10 @@
 
 ### NextAuth setup
 
+- Open terminal and write:
+  - `npm install next-auth @prisma/client @next-auth/prisma-adapter bcrypt`
+  - `npm install -D @types/bcrypt`
+
 # Register Functionality
 
 # Login Functionality and Social Login (Google and Github)
