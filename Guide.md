@@ -42,6 +42,9 @@
 
 # Register Functionality
 
+- Open terminal and write:
+  - `npm install axios`
+
 # Login Functionality and Social Login (Google and Github)
 
 # Layout
