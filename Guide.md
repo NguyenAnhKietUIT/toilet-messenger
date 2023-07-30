@@ -47,6 +47,9 @@
 
 # Login Functionality and Social Login (Google and Github)
 
+- Open terminal and write:
+  - `npm install react-hot-toast`
+
 # Layout
 
 ## Sidebar
