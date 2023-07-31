@@ -52,10 +52,11 @@
 
 # Layout
 
-## Sidebar
-
 - Open terminal and write:
   - `npm install react-icons`
+  - `npm install next-superjson-plugin`
+
+## Sidebar
 
 ## Navigation
 
