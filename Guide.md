@@ -66,6 +66,9 @@
 
 ## Conversations
 
+- Open terminal and write:
+  - `npm install date-fns`
+
 ## Conversation Creation
 
 # Message
