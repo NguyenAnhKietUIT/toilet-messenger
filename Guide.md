@@ -54,6 +54,9 @@
 
 ## Sidebar
 
+- Open terminal and write:
+  - `npm install react-icons`
+
 ## Navigation
 
 # Screen
