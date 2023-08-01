@@ -25,3 +25,5 @@
 `npm install date-fns`
 
 `npm install next-cloudinary`
+
+`npm install @headlessui/react`
