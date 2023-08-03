@@ -27,3 +27,7 @@
 `npm install next-cloudinary`
 
 `npm install @headlessui/react`
+
+`npm install react-select`
+
+`npm install react-spinners`
