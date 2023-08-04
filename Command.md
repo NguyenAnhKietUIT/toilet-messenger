@@ -31,3 +31,11 @@
 `npm install react-select`
 
 `npm install react-spinners`
+
+`npm install pusher pusher-js`
+
+`npm install lodash`
+
+`npm install -D @types/lodash`
+
+`npm install zustand`
