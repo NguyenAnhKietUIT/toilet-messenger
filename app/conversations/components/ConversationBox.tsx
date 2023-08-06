@@ -7,7 +7,6 @@ import { useSession } from 'next-auth/react';
 import { useCallback, useMemo } from 'react';
 
 import { FullConversationType } from '@/app/types';
-import { Conversation, Message, User } from '@prisma/client';
 import useOtherUser from '@/app/hooks/useOtherUser';
 import Avatar from '@/app/components/Avatar';
 import AvatarGroup from '@/app/components/AvatarGroup';
